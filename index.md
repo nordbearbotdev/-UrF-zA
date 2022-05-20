@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Тут вы узнаете все что нужно знать о ѳUrFᑎzA
+## Кто такой ѳUrFᑎzA?
+Рептело...ой, танкист по советской ветке.
+## Словарный запас
 
-You can use the [editor on GitHub](https://github.com/nordbearbotdev/oUrFazA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nordbearbotdev/oUrFazA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Снимок экрана 2022-05-20 в 21 07 14](https://user-images.githubusercontent.com/85753549/169587564-d14c8ef0-a488-42d9-94ec-a27b370a0057.png)
+Впечатляет, верно?
